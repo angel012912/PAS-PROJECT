@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Log-In.unity
+    guid: b767153267daa4b4195af7dfe58324fa
+  - enabled: 1
+    path: Assets/Scenes/RegistroDatos.unity
+    guid: d9f66cdd10a252242b1b1562b3d3c98d
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 2ce8b936d6bf04bc3a3237175e7549db
+  - enabled: 1
+    path: Assets/Scenes/selec_personaje.unity
+    guid: 5e41e41307e4bc748802a84ffa0a3485
+  - enabled: 1
+    path: Assets/Scenes/Ciudades/ciudad.unity
+    guid: 1d9fde840c8dba244900dfecd40c313e
+  - enabled: 1
+    path: Assets/Scenes/Ciudades/ciudad 2.unity
+    guid: 09d0075339f214d4cba602daea5efd62
+  - enabled: 1
+    path: Assets/Scenes/Ciudades/ciudad3.unity
+    guid: d15490ae3cf37eb4d9284228c53bc396
+  - enabled: 1
+    path: Assets/Scenes/Ciudades/ciudad4.unity
+    guid: af74e65c10c71654eb3956a9237d83a7
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 895383df5ea765e448cd467a4cf4aafd
+  - enabled: 1
+    path: Assets/Scenes/RegistroDatos.unity
+    guid: d9f66cdd10a252242b1b1562b3d3c98d
+  - enabled: 1
+    path: Assets/Scenes/NivelesExitosos/DrumNivelExitoso.unity
+    guid: 24f2df00616244d49a61dd8b2ab8f69c
+  - enabled: 1
+    path: Assets/Scenes/NivelesExitosos/CompletadosNiveles.unity
+    guid: f1f6b796416124f1898339fd28316e5c
+  - enabled: 1
+    path: Assets/Scenes/Conga/ExplicacionConga.unity
+    guid: ea5b0c37220c3504a83b8f391e7b11d5
+  - enabled: 1
+    path: Assets/Scenes/Maracas/ExplicacionMaracas.unity
+    guid: 5c063d355df59f94d83006f787687f9e
+  - enabled: 1
+    path: Assets/Scenes/Xilofono/ExplicacionXilofono.unity
+    guid: 3ae05e7088eaa004e95b81d4a5ddd02e
+  - enabled: 1
+    path: Assets/Scenes/Tambor/ExplicacionTambor.unity
+    guid: e88dfe5142fa6fb4b9cd67cc9ba7d391
+  - enabled: 1
+    path: Assets/Scenes/Tambor/Tambor.unity
+    guid: 8f6418a86ab40664abd9c1df8a58f784
+  - enabled: 1
+    path: Assets/Scenes/Tambor/Tambor2.unity
+    guid: 82cdc1caf644d4a49a0efab3b2f88be4
+  - enabled: 1
+    path: Assets/Scenes/Xilofono/Xilofono.unity
+    guid: de548c1603e298944ba4e5672e74fd48
+  - enabled: 1
+    path: Assets/Scenes/Maracas/Maracas.unity
+    guid: 8e1200ccbc68b654ea042353c920b668
+  - enabled: 1
+    path: Assets/Scenes/Maracas/Maracas2.unity
+    guid: f6217f8b7618b914594f2a7fd329dfea
+  - enabled: 1
+    path: Assets/Scenes/Conga/Conga.unity
+    guid: 202d764aee26149d09f138681fb70d72
+  - enabled: 1
+    path: Assets/Scenes/NivelesExitosos/CongaNivelExitoso.unity
+    guid: 4e02ab16f21828d438c12a706db6ae6c
+  - enabled: 1
+    path: Assets/Scenes/Conga/Conga2.unity
+    guid: b4f2116e678b44738b561668d515a393
+  - enabled: 1
+    path: Assets/Scenes/NivelesExitosos/MaracasNivelExitoso.unity
+    guid: b637003c9f5f05c47b3de2cb672337b0
+  - enabled: 1
+    path: Assets/Scenes/Trofeos/Trofeos.unity
+    guid: 5a0322c7c280342a3a5e9bd86f5f14e8
+  - enabled: 1
+    path: Assets/Scenes/Trofeos/Trofeo4.unity
+    guid: b5487073018194e1d9e87b81f3691264
+  - enabled: 1
+    path: Assets/Scenes/Trofeos/Trofeo3.unity
+    guid: f5fe2071f70554e6281d090594bb62d6
+  - enabled: 1
+    path: Assets/Scenes/Trofeos/Trofeo2.unity
+    guid: ede1c4c7d13424f2d87ccde970898f8d
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 88b4d09cf72cfde438f3bce854797e81
+  - enabled: 1
+    path: Assets/Scenes/Log-In.unity
+    guid: b767153267daa4b4195af7dfe58324fa
+  m_configObjects: {}
