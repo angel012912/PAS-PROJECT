@@ -16,7 +16,6 @@ This video game was developed using Unity (Editor Version: 2021.2.11f1) on Windo
 * SQL database 
 
 
-
 ## Installation
 
 * [Link to Google Drive where is the APP for Windows](https://drive.google.com/file/d/1ZCGqjZfRidCOlo1D1C2wylHjZ7kUs0td/view?usp=sharing)
